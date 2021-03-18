@@ -10,6 +10,30 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+*Sample Site
+- [eCommerceWebsite](https://github.com/microweber/microweber).
+- [business website](https://github.com/StartBootstrap/startbootstrap-modern-business).
+
+*Performace technology
+- [htmlminifier]( https://github.com/kangax/html-minifier)
+- [cssnano](https://github.com/cssnano/cssnano)
+- [uglifyJS](https://github.com/mishoo/UglifyJS)
+- [Performace measure](https://github.com/sitespeedio/sitespeed.io)
+- [Performace measure](https://jmeter.apache.org/download_jmeter.cgi)
+
+*Search engine
+- [crawling](https://github.com/scrapy/scrapy)
+- [search engine](https://github.com/elastic/elasticsearch)
+
+*Web Dev Tools
+- [jiratutorial](https://www.tutorialspoint.com/jira/jira_tutorial.pdf)
+- [jirasoftware pdf](https://product-downloads.atlassian.com/software/jira/downloads/documentation/JIRASOFTWARESERVER071-290216.pdf)
+- [jiraservicedesk pdf](https://product-downloads.atlassian.com/software/jira/downloads/documentation/SERVICEDESKSERVER033-130117-0338-672.pdf)
+- [jiracorepdf](http://product-downloads.atlassian.com/software/jira/downloads/documentation/JIRACORESERVER073-130117-0337-666.pdf)
+
+- [webanalytics](https://github.com/matomo-org/matomo)
+
+
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
 ## SETUP
