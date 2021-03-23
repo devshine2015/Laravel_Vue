@@ -33,6 +33,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 - [webanalytics](https://github.com/matomo-org/matomo)
 
+*GitLab
+- [GitLab manul install](https://docs.gitlab.com/omnibus/manual_install.html)
+- [Gitlab ce version list](https://packages.gitlab.com/gitlab/gitlab-ee)
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
